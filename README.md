@@ -34,7 +34,7 @@ This R scipt performs the following steps:
 * Creates a second, independent tidy data set with the average of each variable 
   for each activity and each subject. 
 
-How to run R script "run_analysis.R"
+### How to run R script "run_analysis.R"
 * Download and unzip the data from link:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 * Place the downloaded data directory "UCI HAR Dataset" in R working directory.
