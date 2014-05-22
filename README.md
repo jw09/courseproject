@@ -23,7 +23,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ### R script "run_analysis.R" 
 
-# This R scipt performs the following steps: 
+### This R scipt performs the following steps: 
 * Merges the training and the test sets to create one data set.
 * Extracts the measurement data (3-axial linear acceleration raw signals 
   from accelerometer and 3-axial angular velocity from gyroscope) on the mean 
@@ -34,7 +34,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * Creates a second, independent tidy data set with the average of each variable 
   for each activity and each subject. 
 
-# How to run R script "run_analysis.R"
+### How to run R script "run_analysis.R"
 * Download and unzip the data from link:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 * Place the downloaded data directory "UCI HAR Dataset" in R working directory.
