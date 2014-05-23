@@ -17,6 +17,7 @@ measurement variable descriptions.)
 * Uses descriptive activity names to name the activities in the data set
 * Appropriately labels the data set with descriptive activity names.
 * Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
 See README.md for details on how to run "run_analysis.R".
 
 ### Samsung measurement summary data set description
